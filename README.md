@@ -1,1 +1,3 @@
-# WK04
+# Week 04
+
+Image representation and processing
